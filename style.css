@@ -1,0 +1,19 @@
+
+.mimikyu-container{
+    display: flex;
+    justify-content: center;
+}
+
+.mimikyu{
+    width: 25%;
+    max-width: 200px;
+    image-rendering: pixelated;
+
+}
+
+.mimikyu-choices{
+    text-align: center;
+}
+
+.mimikyu-choices button {
+}
